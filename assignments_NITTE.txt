@@ -1,0 +1,28 @@
+H/W for 10thJune24
+Write a program to generate the following pattern of numbers
+
+1
+22
+333
+4444
+
+Classwork:
+Suppose list is 
+lstElements = [10,10.00,'hello',(1,2,3),20,(3,4,5)]
+write a program using list comprehension and isinstance()
+to generate a list of only tuples from the above lstElements.
+O/P=>lstTuples = [(1,2,3),(3,4,5)]
+
+Emp Class:
+attributes:
+  - empname - string
+  - empno   - string
+  - Mobile Number - string
+  - Nationality - string
+  - Gender - string
+  - KYC - string
+  - specialisation - list of strings
+
+Method:
+   insert_emp_data ()=> inserts  into txt file alll this data
+Mandatory: doc string!!
