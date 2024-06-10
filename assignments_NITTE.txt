@@ -20,6 +20,9 @@ attributes:
   - Mobile Number - string
   - Nationality - string
   - Gender - string
+Method:
+   insert_emp_data ()=> inserts  into txt file alll this data
+Mandatory: doc string!!
 
 Foreign_Emp class
 Attributes:-
@@ -72,6 +75,4 @@ Try without and with Time complexity
   - KYC - string
   - specialisation - list of strings
 
-Method:
-   insert_emp_data ()=> inserts  into txt file alll this data
-Mandatory: doc string!!
+
