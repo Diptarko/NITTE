@@ -1,0 +1,8 @@
+Binary search tree -
+  Add the find_min method to the BinarySearchTree
+class to find the least element in the tree.
+
+Add the find_max method to the BinarySearchTree to find the
+max element in the tree.
+
+
