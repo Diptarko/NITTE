@@ -1,4 +1,4 @@
-Python with Datascience Video link:
+Python with Datastructure Video link:
 https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
 Other important Youtube channels for Python & DS:
 https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig
